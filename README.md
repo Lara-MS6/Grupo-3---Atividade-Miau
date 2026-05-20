@@ -6,10 +6,8 @@ O **Zelo** é uma plataforma de marketplace de serviços focada em conectar clie
 
 O Zelo resolve a dificuldade de encontrar profissionais de confiança para serviços urgentes, eliminando a dependência de indicações incertas em grupos desestruturados.
 
-* 
 **Diferencial:** Acesso prioritário via plano **Zelo Prime**, garantindo prontidão e profissionais de elite.
-
-* 
+  
 **Tecnologia:** Aplicação mobile desenvolvida com **React Native/Expo SDK 54**, utilizando **Drizzle ORM** para uma comunicação eficiente e tipada com o banco de dados.
 
 ## Stack Tecnológica
